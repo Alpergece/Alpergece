@@ -1,6 +1,6 @@
 ### Hi, I am Alper 👋
 
-I'm Alper Gece, a passionate Master's student from TU Darmstadt who thrives on pushing the boundaries of Robotics and Artificial Intelligence. My playground? The Intelligent Autonomous Lab at the Computer Science faculty, TU Darmstadt, where I've been busy crafting and sculpting my research skills.
+I'm Alper Gece, a passionate Master's student from TU Darmstadt who thrives on pushing the boundaries of Robotics and Artificial Intelligence. My playground? The Intelligent Autonomous Systems Lab at the Computer Science faculty, TU Darmstadt, where I've been busy crafting and sculpting my research skills.
 
 🔬 What I'm currently digging?
 Working on my Master's thesis which revolves around the fascinating domain of Imitation Learning at IAS Lab.
